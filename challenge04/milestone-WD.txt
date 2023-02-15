@@ -1,0 +1,12 @@
+Our project will be a survival based First Person Shooter that we develop in Unity. We want to incorporate
+more advanced movement techniques than simply moving around, i.e. jumping, sliding, etc. We also want to
+have enemy AI so that there is a dynamic element to playing. The weapons will be dependant on the cards
+that the player is holding, which will be shuffled after each "reload".
+
+I will be responsible for coming up with the enemy AI. So far I have researched the basic elements of
+creating a game in Unity and now I will need to determine how to do a basic AI using the Unity program.
+
+Rubric
+  20 pts: Developing a working AI for enemies
+  15 pts: Spent the required time of >= 4 hours
+   5 pts: Worked well with the team so that all elements combine
