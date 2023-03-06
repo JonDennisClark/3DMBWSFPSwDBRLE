@@ -1,0 +1,20 @@
+We wish to develop an first person arena based, wave survival game with advanced movement techniques. The game will also have roguelike elements in the form of random cards the player
+acquires over rounds determining the type of weapon they have. The player will gain points oer the course of waves that they can use to uy new cards and thus alter their loadout.\
+
+I am responsible for player movement and shooting, and have already made strides in getting both working properly. Nearly all aspects of player movement have been completed, with the
+exception of wall jump, and a shooting script with values that can be edited to create various guns has been completed. I am currently trouble shooting why our wall jump occurs instantly
+rather than over a period of time, and also researching how to create more unique guns such as shotguns and snipers with piercing bullets. 
+
+Rubric:
+15 pts: Spent required time of at leadt 4 hours working on project
+20 pts: Fixed player moevement issues and got unique weapon types working properly
+5 pts: Communicated clearly with group members about progress and what needs to be done
+
+Repo link: https://github.com/Shm00py/302Final
+
+Time log:
+2 hours spent researching character movement and projectile shooting tutorials
+2 hours spent attempting to fix wall jump. Temporary solution found that works, but feels disconnected and odd.
+1 hour spent tinkering with shooting, resulting in the creation of bouncing bullets. Piercing bulleets stil WIP.
+2 hours spent researching specific wall jump techniques, most results were unhelpful.
+1 hour spent fixing glitch where jumping while on a slope would rocket the player higher into the sky than their regular jump height.
